@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/yokotahiroyuki/.pyenv/versions/3.9.4/bin/python",
+    // "[html]": {
+    //   "editor.defaultFormatter": "vscode.html-language-features"
+    // },
+    // "emmet.includeLanguages": {
+    //     "django-html": "html",
+    // },
+    // "html.format.enable": true,
+}
